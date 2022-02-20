@@ -3,6 +3,9 @@
     padding: 0;
 
 }
+h1, span{
+    color:white;
+}
 #cocktail-img{
     background-image: url(CocktailPicture2.jfif);
     background-repeat: no-repeat;
